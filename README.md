@@ -13,21 +13,18 @@ Extension này giúp bạn tiết kiệm thời gian bằng cách tự động �
 ## 🎯 Tính năng chính
 
 ### ⚡ Tự động điền thông minh
-
 - Tự động phát hiện và điền **tất cả các trường form** trên trang
 - Hỗ trợ các trường ẩn và được tạo động
 - Dữ liệu mẫu phong phú: tên, email, số điện thoại, địa chỉ, thông tin tài chính...
 - Hỗ trợ đầy đủ **tiếng Việt và tiếng Anh**
 
 ### 🎨 Trải nghiệm người dùng
-
 - **Hiệu ứng animation** mượt mà khi điền form
 - Thông báo trạng thái trực quan
 - Hỗ trợ **Light Mode và Dark Mode**
 - Không cần popup - chỉ một cú click!
 
 ### 🔐 Bảo mật tuyệt đối
-
 - Hoạt động **chỉ trên tab hiện tại**
 - **Không lưu trữ** hay gửi dữ liệu ra ngoài
 - Xử lý hoàn toàn trên máy local
@@ -37,15 +34,12 @@ Extension này giúp bạn tiết kiệm thời gian bằng cách tự động �
 ## 📦 Cài đặt
 
 ### Từ Chrome Web Store
-
 1. Truy cập [Chrome Web Store](https://chrome.google.com/webstore) (link sẽ cập nhật khi publish)
 2. Tìm kiếm "Auto Form Filler"
 3. Click "Add to Chrome"
 
 ### Từ Source Code
-
 1. Clone repository:
-
    ```bash
    git clone https://github.com/yourusername/auto-form-filler.git
    ```
@@ -138,23 +132,19 @@ auto-form-filler/
 ## 🔧 Phát triển
 
 ### Prerequisites
-
 - Google Chrome
 - Kiến thức cơ bản về JavaScript và Chrome Extension API
 
 ### Development Setup
-
 1. Clone repo và mở trong editor yêu thích
 2. Thực hiện thay đổi trong `background.js` hoặc `manifest.json`
 3. Reload extension tại `chrome://extensions/`
 4. Test trên các trang web khác nhau
 
 ### Testing
-
 Recommended test sites:
-
 - Form đăng ký: các trang e-commerce
-- Form liên hệ: corporate websites
+- Form liên hệ: corporate websites  
 - Form khảo sát: Google Forms, Typeform
 - Form đăng nhập: social media platforms
 
@@ -165,21 +155,17 @@ Recommended test sites:
 Chúng tôi rất hoan nghênh mọi đóng góp! Dưới đây là một số cách bạn có thể giúp đỡ:
 
 ### 🐛 Báo lỗi
-
 Nếu bạn gặp lỗi, hãy [tạo issue](https://github.com/yourusername/auto-form-filler/issues) với:
-
 - Mô tả chi tiết lỗi
 - Steps to reproduce
 - Screenshots nếu có
 - Thông tin browser và OS
 
 ### ✨ Đề xuất tính năng
-
 - [Tạo feature request](https://github.com/yourusername/auto-form-filler/issues) với label `enhancement`
 - Mô tả rõ use case và lợi ích
 
 ### 🔧 Pull Requests
-
 1. Fork repository
 2. Tạo feature branch: `git checkout -b feature/amazing-feature`
 3. Commit changes: `git commit -m 'Add amazing feature'`
@@ -187,7 +173,6 @@ Nếu bạn gặp lỗi, hãy [tạo issue](https://github.com/yourusername/auto
 5. Tạo Pull Request
 
 ### 📋 Coding Guidelines
-
 - Sử dụng meaningful variable names
 - Comment code phức tạp
 - Test trên nhiều website khác nhau
@@ -198,7 +183,7 @@ Nếu bạn gặp lỗi, hãy [tạo issue](https://github.com/yourusername/auto
 ## 📊 Roadmap
 
 - [ ] **v2.0**: Custom data profiles
-- [ ] **v2.1**: Import/Export configurations
+- [ ] **v2.1**: Import/Export configurations  
 - [ ] **v2.2**: Team collaboration features
 - [ ] **v3.0**: AI-powered field detection
 - [ ] **v3.1**: Multi-language data generation
@@ -268,5 +253,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 Made with ❤️ by [Tandev.foto](https://tandev.foto) for the Vietnamese developer community
 
 </div>
-#   A u t o - F i l l - E x t e n s i o n  
- 
