@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Form Filler by Tandev.foto",
+  "version": "1.0",
+  "description": "Tự động điền form thông minh với dữ liệu mẫu phù hợp cho người dùng. Chỉ cần 1 click!",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon64.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Điền Form Tự Động - Click để điền form!"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon64.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
