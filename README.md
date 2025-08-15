@@ -409,15 +409,13 @@ MIT License - Copyright (c) 2024 Duong Thai Tan
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Made%20with%20❤️%20in%20Vietnam&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=70)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Made%20with%20❤️%20in%20Tandev.foto&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=70)
 
-# 🇻🇳 **Proudly Made in Vietnam**
 
 ### ⭐ **Nếu thấy hữu ích, hãy cho project một Star nhé!**
 
 [![Star This Project](https://img.shields.io/github/stars/duongthaitan/Auto-Fill-Extension?style=social&logo=github)](https://github.com/duongthaitan/Auto-Fill-Extension)
 
-🚀 *Cùng nhau xây dựng công cụ tốt nhất cho Developer Việt Nam!*
 
 **© 2024 Auto Fill Extension by Duong Thai Tan. All rights reserved.**
 
